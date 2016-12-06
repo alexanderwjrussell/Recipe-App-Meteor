@@ -1,4 +1,4 @@
 # Recipe App
 ### Written in Meteor
 
-![Screenshot](desktop/Recipe-App.png "Logged In - Screenshot")
+![Screenshot](screenshots/Recipe-App.png "Logged In - Screenshot")
